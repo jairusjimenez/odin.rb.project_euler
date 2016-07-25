@@ -1,0 +1,1 @@
+# odin.rb.project_euler
